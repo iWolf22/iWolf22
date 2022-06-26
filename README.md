@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iWolf22
-- 👀 I’m interested in app/game development and algorithims
+- 👀 I’m interested in app/game development and algorithms
 - 🌱 I’m currently learning web development and competitive programming
 - 💞️ I’m looking to collaborate on any upcoming hackathons
 - 📫 How to reach me <joshua.dierickse@gmail.com>
