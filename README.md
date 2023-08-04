@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and competitive programming
 - 💞️ I’m looking to collaborate on any upcoming hackathons
 - 📫 How to reach me <joshua.dierickse@gmail.com>
-- 🌐 My personal website https://www.joshuadierickse.ml/
+- 🌐 My personal website https://iwolf22.github.io/Personal-Website/
 
 <!---
 iWolf22/iWolf22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
