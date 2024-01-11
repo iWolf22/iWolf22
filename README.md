@@ -21,9 +21,9 @@
 ## About me
 - 🎓 I am a first-year student at the University of Waterloo for Computer Science
 - 🛠️ I have built full-stack web applications, video games and hardware trinkets
-- 👀 I am currently searching for a Summer 2024 software developer internship
+- 💼 I am currently searching for a Summer 2024 software developer internship
 - 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
-- 💯 Fun fact: I love hockey, chess, running, and cats!
+- 🥳 Fun fact: I love hockey, chess, running, and cats!
 
 ## Programming Languages
 
