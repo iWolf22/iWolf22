@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Joshua Dierickse</h1>
-
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Game+Developer;Graphic+Designer)](https://git.io/typing-svg)
-</p>
+
 
 <p align="center">
  <a href="https://iwolf22.github.io/Personal-Website/" target="blank">
