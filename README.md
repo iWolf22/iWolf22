@@ -79,7 +79,7 @@
   </a>
 
   <a href="https://github.com/iWolf22/">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWolf22&theme=react" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWolf22&layout=compact&theme=react" />
   </a>
 </p>
 
