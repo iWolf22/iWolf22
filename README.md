@@ -75,11 +75,11 @@
 
 <p align="center">
  <a href="https://github.com/iWolf22/">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api?username=iWolf22&show_icons=true&theme=radical" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api?username=iWolf22&show_icons=true&theme=react" />
   </a>
 
   <a href="https://github.com/iWolf22/">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWolf22&text_color=FFFFFF&bg_color=010409&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWolf22&theme=react" />
   </a>
 </p>
 
