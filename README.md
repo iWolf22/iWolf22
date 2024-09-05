@@ -8,12 +8,12 @@
  <a href="https://iwolf22.github.io/Personal-Website/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="mailto:jpcdieri@uwaterloo.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam" />
- </a> 
  <a href="https://www.linkedin.com/in/joshua-dierickse-360741207/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
+  <a href="mailto:jpcdieri@uwaterloo.ca" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam" />
+ </a> 
 </p>
 
 ## About me
