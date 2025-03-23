@@ -6,6 +6,8 @@
 - 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
 - 🥳 Fun fact: I love hockey, chess, running, and cats!
 
+<br/>
+
 ## Programming Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
