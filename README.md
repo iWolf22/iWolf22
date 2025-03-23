@@ -1,9 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Joshua Dierickse</h1>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2E2B2&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Game+Developer;Graphic+Designer" alt="Typing SVG" /></a>
-</p>
-
 ## About me
 - 🎓 I am a second-year student at the University of Waterloo for Computer Science
 - 🛠️ I have built full-stack web applications, video games and hardware trinkets
