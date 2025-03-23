@@ -4,22 +4,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2E2B2&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Game+Developer;Graphic+Designer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
- <a href="https://joshuadierickse.me" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://www.linkedin.com/in/joshua-dierickse-360741207/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-  <a href="mailto:jpcdieri@uwaterloo.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam" />
- </a> 
-</p>
-
 ## About me
 - 🎓 I am a second-year student at the University of Waterloo for Computer Science
 - 🛠️ I have built full-stack web applications, video games and hardware trinkets
-- 💼 I am currently searching for a Winter 2025 software developer internship
+- 💼 I am currently searching for a Fall 2025 software developer internship
 - 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
 - 🥳 Fun fact: I love hockey, chess, running, and cats!
 
