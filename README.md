@@ -6,8 +6,6 @@
 - 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
 - 🥳 Fun fact: I love hockey, chess, running, and cats!
 
-<br/>
-
 ## Programming Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -55,8 +53,6 @@
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<br/>
 
 ## GitHub Stats
 
