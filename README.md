@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Joshua Dierickse</h1>
 
-- 🎓 I am a second-year student at the University of Waterloo for Computer Science
+- 🎓 I am a second-year student at the University of Waterloo in Computer Science
 - 🛠️ I have built full-stack web applications, video games and hardware trinkets
-- 💼 I am currently searching for a Fall 2025 software developer internship
+- 💼 I am currently searching for a Summer 2026 software developer internship
 - 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
 - 🥳 Fun fact: I love hockey, chess, running, and cats!
 
